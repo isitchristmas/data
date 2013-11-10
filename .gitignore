@@ -1,3 +1,4 @@
 trash.csv
 redis.json
 todo.txt
+*.rdb
