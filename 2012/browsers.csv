@@ -1,4 +1,4 @@
-,,
+browser,transport,connections
 all browsers,all transports,851789
 all browsers,websocket,743709
 all browsers,xhr,84500
