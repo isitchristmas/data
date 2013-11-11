@@ -1,51 +1,51 @@
 "","","","Successful *connections* to isitchristmas.com's flag server, broken down by browser and transport type, between Dec 19, 2012 and Dec 27, 2012. Prepared by @konklone."
-all browsers,all transports,851789
-all browsers,websocket,743709
-all browsers,xhr,84500
-all browsers,xdr,23580
-"","",""
-chrome,all transports,485081
-chrome,websocket,464458
-chrome,xhr,20623
-chrome,xdr,0
-"","",""
-safari,all transports,157578
-safari,websocket,121231
-safari,xhr,36347
-safari,xdr,0
-"","",""
-firefox,all transports,150959
-firefox,websocket,145620
-firefox,xhr,5339
-firefox,xdr,0
-"","",""
-mozilla,all transports,23740
-mozilla,websocket,1616
-mozilla,xhr,22124
-mozilla,xdr,0
-"","",""
-IE9,all transports,23397
-IE9,websocket,19
-IE9,xhr,0
-IE9,xdr,23378
-"","",""
-opera,all transports,7974
-opera,websocket,7974
-opera,xhr,0
-opera,xdr,0
-"","",""
-IE10,all transports,2855
-IE10,websocket,2788
-IE10,xhr,67
-IE10,xdr,0
-"","",""
-IE7,all transports,201
-IE7,websocket,3
-IE7,xhr,0
-IE7,xdr,198
-"","",""
-IE8,all transports,4
-IE8,websocket,0
-IE8,xhr,0
-IE8,xdr,4
-"","",""
+all browsers,all transports,851789,""
+all browsers,websocket,743709,""
+all browsers,xhr,84500,""
+all browsers,xdr,23580,""
+"","","",""
+chrome,all transports,485081,""
+chrome,websocket,464458,""
+chrome,xhr,20623,""
+chrome,xdr,0,""
+"","","",""
+safari,all transports,157578,""
+safari,websocket,121231,""
+safari,xhr,36347,""
+safari,xdr,0,""
+"","","",""
+firefox,all transports,150959,""
+firefox,websocket,145620,""
+firefox,xhr,5339,""
+firefox,xdr,0,""
+"","","",""
+mozilla,all transports,23740,""
+mozilla,websocket,1616,""
+mozilla,xhr,22124,""
+mozilla,xdr,0,""
+"","","",""
+IE9,all transports,23397,""
+IE9,websocket,19,""
+IE9,xhr,0,""
+IE9,xdr,23378,""
+"","","",""
+opera,all transports,7974,""
+opera,websocket,7974,""
+opera,xhr,0,""
+opera,xdr,0,""
+"","","",""
+IE10,all transports,2855,""
+IE10,websocket,2788,""
+IE10,xhr,67,""
+IE10,xdr,0,""
+"","","",""
+IE7,all transports,201,""
+IE7,websocket,3,""
+IE7,xhr,0,""
+IE7,xdr,198,""
+"","","",""
+IE8,all transports,4,""
+IE8,websocket,0,""
+IE8,xhr,0,""
+IE8,xdr,4,""
+"","","",""
