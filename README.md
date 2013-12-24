@@ -1,6 +1,6 @@
 ### isitchristmas data
 
-Data from running [isitchristmas.com](http://isitchristmas.com).
+Data from running [isitchristmas.com](https://isitchristmas.com).
 
 #### Google Analytics
 
