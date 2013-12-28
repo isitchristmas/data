@@ -12,10 +12,11 @@ Some Google Analytics traffic reports from:
 * [2010](http://isitchristmas.io/data/google-analytics/2010.pdf) - December 24-26, 2010.
 * [2011](http://isitchristmas.io/data/google-analytics/2011.pdf) - December 24-26, 2011.
 * [2012](http://isitchristmas.io/data/google-analytics/2012.pdf) - December 19-27, 2012.
+* [2013](http://isitchristmas.io/data/google-analytics/2012.pdf) - December 14-26, 2012.
 
 #### 2012
 
-In 2012, there was a [weird flag experiment](https://konklone.com/post/isitchristmas-dot-com-2012) on isitchristmas.com from December 19th-27th.
+In 2012, there was a [silly flag experiment](https://konklone.com/post/isitchristmas-dot-com-2012) on isitchristmas.com from December 19th-27th.
 
 From it, I have three data files:
 
