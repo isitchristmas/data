@@ -6,13 +6,13 @@ Data from running [isitchristmas.com](https://isitchristmas.com).
 
 Some Google Analytics traffic reports from:
 
-* [2007](http://isitchristmas.io/data/google-analytics/2007.pdf) - December 24-26, 2007.
-* [2008](http://isitchristmas.io/data/google-analytics/2008.pdf) - December 24-26, 2008.
-* [2009](http://isitchristmas.io/data/google-analytics/2009.pdf) - December 24-26, 2009.
-* [2010](http://isitchristmas.io/data/google-analytics/2010.pdf) - December 24-26, 2010.
-* [2011](http://isitchristmas.io/data/google-analytics/2011.pdf) - December 24-26, 2011.
-* [2012](http://isitchristmas.io/data/google-analytics/2012.pdf) - December 19-27, 2012.
-* [2013](http://isitchristmas.io/data/google-analytics/2013.pdf) - December 14-26, 2013.
+* [2007](http://isitchristmas.github.io/data/google-analytics/2007.pdf) - December 24-26, 2007.
+* [2008](http://isitchristmas.github.io/data/google-analytics/2008.pdf) - December 24-26, 2008.
+* [2009](http://isitchristmas.github.io/data/google-analytics/2009.pdf) - December 24-26, 2009.
+* [2010](http://isitchristmas.github.io/data/google-analytics/2010.pdf) - December 24-26, 2010.
+* [2011](http://isitchristmas.github.io/data/google-analytics/2011.pdf) - December 24-26, 2011.
+* [2012](http://isitchristmas.github.io/data/google-analytics/2012.pdf) - December 19-27, 2012.
+* [2013](http://isitchristmas.github.io/data/google-analytics/2013.pdf) - December 14-26, 2013.
 
 #### 2012
 
